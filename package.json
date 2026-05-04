@@ -6,12 +6,15 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "prepare": "node scripts/install-hooks.js || true"
   },
   "dependencies": {
     "next": "^16.0.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "@anthropic-ai/sdk": "^0.34.0",
+    "recharts": "^3.8.1"
   },
   "devDependencies": {
     "@types/node": "^22.10.0",
