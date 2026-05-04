@@ -6,6 +6,7 @@ import { simulate, type SimulationResult } from "@/lib/monte-carlo";
 import MrrChart from "@/components/MrrChart";
 import HistogramChart from "@/components/HistogramChart";
 
+import SectionClusterShowcase from "./_components/SectionClusterShowcase";
 const EXAMPLES = {
   meetsync: {
     label: "MeetSync — B2B SaaS meeting recorder (Pre-Series A)",
@@ -293,6 +294,7 @@ function KpiBox({ label, value, sub, color }: { label: string; value: string; su
       <div style={{ fontSize: 11, color: "#9CA3AF", fontWeight: 700, letterSpacing: 0.5, marginBottom: 6 }}>{label}</div>
       <div style={{ fontSize: 26, fontWeight: 800, color, marginBottom: 4 }}>{value}</div>
       <div style={{ fontSize: 11, color: "#9CA3AF" }}>{sub}</div>
+          <SectionClusterShowcase />
     </div>
   );
 }
