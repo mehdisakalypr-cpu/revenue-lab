@@ -1,0 +1,7 @@
+{
+  "brand": {"name": "ANNF", "tagline": "AI-newsletter — onderzoek, schrijven, monetisatie 24/7"},
+  "nav": {"home": "Start", "demo": "Demo", "offers": "Prijzen", "faq": "FAQ", "contact": "Contact"},
+  "hero": {"title": "Word wakker met een verzendklare newsletter", "cta_primary": "Bekijk demo", "cta_secondary": "Bekijk prijzen"},
+  "waitlist": {"title": "Word lid van Founder's Club", "subtitle": "Lancering beperkt tot eerste 200", "submit": "Ga op wachtlijst", "success": "Je staat op de wachtlijst"},
+  "footer": {"services": "Diensten", "resources": "Bronnen", "legal": "Juridisch", "company": "Bedrijf"}
+}

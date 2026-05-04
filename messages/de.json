@@ -1,0 +1,7 @@
+{
+  "brand": {"name": "ANNF", "tagline": "KI-Newsletter — Recherche, Texterstellung, Monetarisierung 24/7"},
+  "nav": {"home": "Start", "demo": "Demo", "offers": "Preise", "faq": "FAQ", "contact": "Kontakt"},
+  "hero": {"title": "Wach auf mit einem versandfertigen Newsletter", "cta_primary": "Demo ansehen", "cta_secondary": "Preise ansehen"},
+  "waitlist": {"title": "Founder's Club beitreten", "subtitle": "Launch auf erste 200 begrenzt", "submit": "Warteliste beitreten", "success": "Du bist auf der Warteliste"},
+  "footer": {"services": "Dienste", "resources": "Ressourcen", "legal": "Rechtliches", "company": "Unternehmen"}
+}

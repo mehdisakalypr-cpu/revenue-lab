@@ -1,0 +1,7 @@
+{
+  "brand": {"name": "ANNF", "tagline": "Newsletter con IA — investigación, redacción, monetización 24/7"},
+  "nav": {"home": "Inicio", "demo": "Demo", "offers": "Precios", "faq": "FAQ", "contact": "Contacto"},
+  "hero": {"title": "Despierta con tu newsletter lista para enviar", "cta_primary": "Ver demo", "cta_secondary": "Ver precios"},
+  "waitlist": {"title": "Únete al Founder's Club", "subtitle": "Lanzamiento limitado a los primeros 200", "submit": "Unirse a la lista", "success": "Estás en la lista de espera"},
+  "footer": {"services": "Servicios", "resources": "Recursos", "legal": "Legal", "company": "Empresa"}
+}

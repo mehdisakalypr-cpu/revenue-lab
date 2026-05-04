@@ -1,0 +1,7 @@
+{
+  "brand": {"name": "ANNF", "tagline": "AI-driven newsletter — research, writing, monetization 24/7"},
+  "nav": {"home": "Home", "demo": "Demo", "offers": "Pricing", "faq": "FAQ", "contact": "Contact"},
+  "hero": {"title": "Wake up to a newsletter ready to ship", "cta_primary": "See demo", "cta_secondary": "See pricing"},
+  "waitlist": {"title": "Join the Founder's Club", "subtitle": "Launch limited to first 200", "submit": "Join waitlist", "success": "You're on the waitlist"},
+  "footer": {"services": "Services", "resources": "Resources", "legal": "Legal", "company": "Company"}
+}
