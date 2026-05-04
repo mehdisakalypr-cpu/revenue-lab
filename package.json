@@ -13,7 +13,7 @@
     "next": "^16.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "@anthropic-ai/sdk": "^0.34.0",
+    "@anthropic-ai/sdk": "^0.93.0",
     "recharts": "^3.8.1"
   },
   "devDependencies": {
