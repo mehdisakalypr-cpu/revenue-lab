@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import AnalyticsTracker from "@/components/AnalyticsTracker";
 
 export const metadata: Metadata = {
   title: "RevenueLab — Modélise tes revenus SaaS en 1000 scénarios",
@@ -18,6 +19,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         }}
       >
         {children}
+              <AnalyticsTracker />
       </body>
     </html>
   );
